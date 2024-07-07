@@ -1,7 +1,7 @@
 Explanation
 1.	Environment Setup:
 
-  •	environment_setup.sh:  sets up the necessary environment by installing Java, Apache Spark, Miniconda, and required Python packages including pyspark,           torch, and torchvision.
+      •	environment_setup.sh:  sets up the necessary environment by installing Java, Apache Spark, Miniconda, and required Python packages including pyspark,           torch, and torchvision.
   
 2.	Data Ingestion and Preprocessing with Apache Spark:
 
