@@ -2,13 +2,14 @@ Distributed Data Processing and Machine Learning Pipeline
 This project demonstrates the use of Apache Spark and PyTorch for handling large-scale data, performing advanced computations, and leveraging open-source tools in a Linux-based environment. The goal is to build an end-to-end distributed data processing and machine learning pipeline.
 
 Table of Contents
-Project Structure
-Setup Instructions
-Usage
-Pipeline Description
-Results
-Contributing
-License
+
+1. Project Structure
+2. Setup Instructions
+3. Usage
+4. Pipeline Description
+5. Results
+6. Contributing
+
 Project Structure
 
 ├── environment_setup.sh
