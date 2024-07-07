@@ -10,12 +10,13 @@ Results
 Contributing
 License
 Project Structure
-Copy code
 .
 ├── environment_setup.sh
 ├── data_ingestion_preprocessing.py
 ├── distributed_ml.py
 ├── README.md
+
+
 Setup Instructions
 Prerequisites
 A Linux-based environment
