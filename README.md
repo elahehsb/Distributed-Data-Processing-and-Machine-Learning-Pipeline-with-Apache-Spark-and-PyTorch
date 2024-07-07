@@ -10,11 +10,15 @@ Results
 Contributing
 License
 Project Structure
-.
+
 ├── environment_setup.sh
+
 ├── data_ingestion_preprocessing.py
+
 ├── distributed_ml.py
+
 ├── README.md
+
 
 
 Setup Instructions
