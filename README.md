@@ -9,5 +9,5 @@ Explanation
   
 3.	Distributed Machine Learning with PyTorch on Apache Spark:
 
-  •	distributed_ml.py demonstrates building a machine learning pipeline with Spark's MLlib for feature extraction and using PyTorch for model training. The      data is read from HDFS, preprocessed using Spark MLlib, and converted to PyTorch tensors for training a neural network model.
+  •	distributed_ml.py demonstrates building a machine learning pipeline with Spark's MLlib for feature extraction and using PyTorch for model training. The       data is read from HDFS, preprocessed using Spark MLlib, and converted to PyTorch tensors for training a neural network model.
 
